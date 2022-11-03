@@ -8,7 +8,7 @@
 #ifndef PLATFORM_LOGGER_HPP_
 #define PLATFORM_LOGGER_HPP_
 
-#include <AVRCircularBufferLogger.h>
+#include "lib/arduino-logger/src/AVRCircularBufferLogger.h"
 
 #ifndef LOG_BUFFER_SIZE
 #define LOG_BUFFER_SIZE 512

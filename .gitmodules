@@ -1,0 +1,6 @@
+[submodule "src/lib/arduino-logger"]
+	path = src/lib/arduino-logger
+	url = https://github.com/embeddedartistry/arduino-logger.git
+[submodule "src/lib/arduino-printf"]
+	path = src/lib/arduino-printf
+	url = https://github.com/embeddedartistry/arduino-printf.git
